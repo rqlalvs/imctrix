@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
             override fun afterTextChanged(s: Editable) {
                 if(!edtHeight.text.isEmpty()){
                     var i: Double = s.toString().toDouble()
-                    if (i >= 0.4 && i <= 2.50) {
+                    if (i >= 0.4 && i <= 2.5) {
                         seekHeight.setProgress((i * 100).toInt()); // This ensures 0-120 value for seekbar
                     }else{
                         Toast.makeText(this@MainActivity, "Valor inválido", Toast.LENGTH_SHORT).show()

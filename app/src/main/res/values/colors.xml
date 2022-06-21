@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="Fundo">#262626</color>
+    <color name="Corum">#375903</color>
+    <color name="Cordois">#9CF21B</color>
+    <color name="Cortres">#B1F250</color>
+    <color name="Corquatro">#F2F2F2</color>
+    <color name="Cinco">#525050</color>
+    <color name="colorPrimary">#B1F250</color>
+    <color name="colorPrimaryDark">#F2F2F2</color>
+    <color name="colorAccent">#312F2F</color>
 </resources>
